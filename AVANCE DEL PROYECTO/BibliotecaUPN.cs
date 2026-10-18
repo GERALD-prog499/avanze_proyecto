@@ -71,6 +71,7 @@ namespace AVANCE_DEL_PROYECTO
 
       
             InventarioBiblioteca.OrdenarYMostrarLibros(listaLibros);
+
         }
     }
 }

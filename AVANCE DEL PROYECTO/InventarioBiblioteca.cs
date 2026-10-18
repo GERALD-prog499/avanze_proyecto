@@ -46,7 +46,7 @@ namespace AVANCE_DEL_PROYECTO
             }
 
             Console.WriteLine("=================================================");
-            Console.WriteLine("   ¡Avance del proyecto completado con éxito!   ");
+            Console.WriteLine("   ¡completado con éxito!   ");
             Console.WriteLine("=================================================");
             Console.ReadKey();
         }
