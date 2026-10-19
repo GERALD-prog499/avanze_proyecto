@@ -36,9 +36,9 @@ namespace AVANCE_DEL_PROYECTO
             Console.WriteLine("=================================================");
             Console.ReadKey();
 
-            return ciclo_estudiante;
+            return ciclo_estudiante;                                                                      //
 
 
-        }
+        } 
     }
 }
